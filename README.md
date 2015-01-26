@@ -3,9 +3,9 @@ Nixie &amp; DS18B20 temperature display
 ![Temperature Display](https://github.com/ibuildrockets/NixieTemperatureDisplay/raw/master/images/NixTemp_23_8.JPG)
 
 * Arduino Pro Micro ( Atmel MEGA32U4 )
-* 3 K155ID1 HV Nixie drivers
-* 3 IN-12a Nixie Tubes & Sockets
-* 1 INS-1 Neon Indicator (as decimal point)
+* 3 x K155ID1 HV Nixie drivers
+* 3 x IN-12a Nixie Tubes & Sockets
+* 1 x INS-1 Neon Indicator (as decimal point)
 * High Voltage Power supply (9v - 170v)
 * Current limiting resistors
 
